@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+
+      name="viewport">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Particle Theme | Home</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700%7CTitillium+Web:200,300,400,600,700&amp;subset=latin-ext"
+
+      rel="stylesheet">
+    <link href="assets/fonts/material-icons/material-icons.css" rel="stylesheet">
+    <link href="assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Libraries CSS -->
+    <link href="assets/css/libraries/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/libraries/animate.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="assets/css/custom/theme.css" rel="stylesheet">
+    <link href="assets/css/custom/colors.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>    <![endif]-->
+  </head>
+  <!-- The #page-top ID is part of the scrolling feature -
+the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
+  <body id="page-top" data-spy="scroll" data-target="#st-nav">
+    <!-- Navigation Menu
+================================================== -->
+    <header> </header>
+    <div id="st-nav"> <a href="#0" class="st-nav-trigger"> Menu<span></span> </a>
+      <nav id="st-main-nav">
+        <ul>
+          <li> <a class="page-scroll hvr-underline-from-center" href="#page-top">Home</a>
+          </li>
+          <li> <a class="page-scroll hvr-underline-from-center" href="#our-work">Tools</a>
+          </li>
+          <li> <a class="page-scroll hvr-underline-from-center" href="#contact">Contact
+              Us</a> </li>
+        </ul>
+      </nav>
+    </div>
+    <!-- /#st-nav -->
+    <!-- Hero Section
+================================================== -->
+    <section id="hero" class="hero-section-video">
+      <div class="video-overlay"></div>
+      <!-- /.video-overlay -->
+      <div class="hero-video"> <video autoplay="autoplay" loop="" poster="assets/video/particle-video-v1-light.jpg"
+
+          id="bgvid" muted="muted" playsinline=""> <source src="assets/video/particle-video-v1-light.mp4"
+
+            type="video/mp4"> <source src="assets/video/particle-video-v1-light.webm"
+
+            type="video/webm"> </video> </div>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="hero-logo"> <img src="assets/images/applinate-logo-large.png"
+
+                alt="logo">
+              <div id="particles-js"></div>
+            </div>
+            <div class="typed-text"> <span class="skilltechtypetext"> <span class="typed-cursor">|</span>
+              </span> </div>
+          </div>
+          <!-- /.col-lg-12 --> </div>
+        <!-- /.row --> </div>
+      <!-- /.container-fluid --> </section>
+    <!-- /.hero-section -->
+    <!-- Image Section
+================================================== -->
+    <section id="big-image" class="image-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h3 class="wow fadeInLeft animated"><span>Outpace </span> Your
+              Competition! </h3>
+            <h4 class="wow fadeInLeft animated">Start building with applinate
+              today!</h4>
+            <button class="btn btn-default btn-lg wow fadeInRight hvr-sweep-to-right animated">Coming
+              Soon!</button> </div>
+          <!-- /.col-md-12 --> </div>
+        <!-- /.row --> </div>
+      <!-- /.container --> </section>
+    <!-- /.image section -->
+    <!-- Our Work Section
+================================================== -->
+    <section id="our-work" class="our-work-section">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12 see-work">
+            <h2 class="wow fadeInLeft animated">Tools</h2>
+          </div>
+          <!-- /.see-work -->
+          <div class="col-md-12 new-style">
+                      <p class="wow fadeInLeft animated">Core Infrasstructure Tools <a>Coming
+              Soon!</a></p>
+          </div>
+          <!-- /.new-style -->
+          <div class="col-md-12 portfolio-images">
+            <div class="col-md-3 col-sm-6 col-xs-6">
+              <div class="portfolio-img first"> <img class="img-responsive" src="assets/images/feature_0_0.png"
+
+                  alt="porftofilio thumbnail">
+                <div class="sweep-left"></div>
+                <div class="sweep-from-center">
+                  <div class="sweep-layer">
+                    <div class="sweep-content">
+                      <div class="sweep-icon"> <a> <i class="fa fa-eye" aria-hidden="true"></i>
+                        </a> </div>
+                      <h3><a>Microservice Framework</a></h3>
+                      <p>Reliable</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="sweep-right"></div>
+              </div>
+              <!-- /.portfolio-img --> </div>
+            <!-- /.col-md-3 -->
+            <div class="col-md-3 col-sm-6 col-xs-6">
+              <div class="portfolio-img second"> <img class="img-responsive" src="assets/images/feature_0_1.png"
+
+                  alt="porftofilio thumbnail">
+                <div class="sweep-left"></div>
+                <div class="sweep-from-center">
+                  <div class="sweep-layer">
+                    <div class="sweep-content">
+                      <div class="sweep-icon"> <a> <i class="fa fa-eye" aria-hidden="true"></i>
+                        </a> </div>
+                      <h3><a>Event-Based</a></h3>
+                      <p>Highly Distributed and Scalable</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="sweep-right"></div>
+              </div>
+              <!-- /.portfolio-img --> </div>
+            <!-- /.col-md-3 -->
+            <div class="col-md-3 col-sm-6 col-xs-6">
+              <div class="portfolio-img third"> <img class="img-responsive" src="assets/images/feature_0_2.png"
+
+                  alt="porftofilio thumbnail">
+                <div class="sweep-left"></div>
+                <div class="sweep-from-center">
+                  <div class="sweep-layer">
+                    <div class="sweep-content">
+                      <div class="sweep-icon"> <a> <i class="fa fa-eye" aria-hidden="true"></i>
+                        </a> </div>
+                      <h3><a>Zero-Code Delivery<br>
+                        </a></h3>
+                      <p>Managed with your git repository branches!</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="sweep-right"></div>
+              </div>
+              <!-- /.portfolio-img --> </div>
+            <!-- /.col-md-3 -->
+            <div class="col-md-3 col-sm-6 col-xs-6">
+              <div class="portfolio-img fourth"> <img class="img-responsive" src="assets/images/feature_0_3.png"
+
+                  alt="porftofilio thumbnail">
+                <div class="sweep-left"></div>
+                <div class="sweep-from-center">
+                  <div class="sweep-layer">
+                    <div class="sweep-content">
+                      <div class="sweep-icon"> <a> <i class="fa fa-eye" aria-hidden="true"></i>
+                        </a> </div>
+                      <h3><a>Monitored<br>
+                        </a></h3>
+                      <p>Your portal lets you see the state of your application!</p>
+                      <p>Built-in health checks</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="sweep-right"></div>
+              </div>
+              <!-- /.portfolio-img --> </div>
+            <!-- /.col-md-3 --> </div>
+          <!-- /.portfoli-images --> </div>
+        <!-- /.row --> </div>
+      <div class="row">
+        <!-- /.see-work -->
+        <div class="col-md-12 new-style">
+          <p class="wow fadeInLeft animated">Functional Tools <a>Coming Soon!</a></p>
+        </div>
+        <!-- /.new-style -->
+        <div class="col-md-12 portfolio-images">
+          <div class="col-md-3 col-sm-6 col-xs-6">
+            <div class="portfolio-img first"> <img class="img-responsive" src="assets/images/feature_1_0.png"
+
+                alt="porftofilio thumbnail">
+              <div class="sweep-left"></div>
+              <div class="sweep-from-center">
+                <div class="sweep-layer">
+                  <div class="sweep-content">
+                    <div class="sweep-icon"> <a> <i class="fa fa-eye" aria-hidden="true"></i>
+                      </a> </div>
+                    <h3><a>Authorization</a></h3>
+                    <p>Pure CSS Instant Hover</p>
+                  </div>
+                </div>
+              </div>
+              <div class="sweep-right"></div>
+            </div>
+            <!-- /.portfolio-img --> </div>
+          <!-- /.col-md-3 -->
+          <div class="col-md-3 col-sm-6 col-xs-6">
+            <div class="portfolio-img second"> <img class="img-responsive" src="assets/images/feature_1_1.png"
+
+                alt="porftofilio thumbnail">
+              <div class="sweep-left"></div>
+              <div class="sweep-from-center">
+                <div class="sweep-layer">
+                  <div class="sweep-content">
+                    <div class="sweep-icon"> <a> <i class="fa fa-eye" aria-hidden="true"></i>
+                      </a> </div>
+                    <h3><a>Templating</a></h3>
+                    <p>Pure CSS Instant Hover</p>
+                  </div>
+                </div>
+              </div>
+              <div class="sweep-right"></div>
+            </div>
+            <!-- /.portfolio-img --> </div>
+          <!-- /.col-md-3 -->
+          <div class="col-md-3 col-sm-6 col-xs-6">
+            <div class="portfolio-img third"> <img class="img-responsive" src="assets/images/feature_1_2.png"
+
+                alt="porftofilio thumbnail">
+              <div class="sweep-left"></div>
+              <div class="sweep-from-center">
+                <div class="sweep-layer">
+                  <div class="sweep-content">
+                    <div class="sweep-icon"> <a> <i class="fa fa-eye" aria-hidden="true"></i>
+                      </a> </div>
+                    <h3><a>Caching</a></h3>
+                    <p>Pure CSS Instant Hover</p>
+                  </div>
+                </div>
+              </div>
+              <div class="sweep-right"></div>
+            </div>
+            <!-- /.portfolio-img --> </div>
+          <!-- /.col-md-3 -->
+          <div class="col-md-3 col-sm-6 col-xs-6">
+            <div class="portfolio-img fourth"> <img class="img-responsive" src="assets/images/feature_1_3.png"
+
+                alt="porftofilio thumbnail">
+              <div class="sweep-left"></div>
+              <div class="sweep-from-center">
+                <div class="sweep-layer">
+                  <div class="sweep-content">
+                    <div class="sweep-icon"> <a> <i class="fa fa-eye" aria-hidden="true"></i>
+                      </a> </div>
+                    <h3><a>Decision Tables<br>
+                      </a></h3>
+                    <p>Pure CSS Instant Hover</p>
+                  </div>
+                </div>
+              </div>
+              <div class="sweep-right"></div>
+            </div>
+            <!-- /.portfolio-img --> </div>
+          <!-- /.col-md-3 --> </div>
+        <!-- /.portfoli-images --> </div>
+      <!-- /.row -->
+      <!-- /.container-fluid --> </section>
+    <!-- /.our-work-section -->
+    <!-- Quote Section
+================================================== -->
+    <section id="quote" class="quote-section">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12 quote-headline">
+            <h4 class="wow fadeIn animated">We are here to help you <span>make
+                your software Better</span></h4>
+          </div>
+          <!-- /.quote-headline -->
+          <div class="col-md-12 quote-bottom">
+            <div class="container">
+              <h3 class="wow fadeIn animated"> "If I have seen further it is
+                by&nbsp;<span>standing on the shoulders of giants</span>." </h3>
+              <p class="wow fadeIn animated">Isaac Newton<span> - Inventor</span></p>
+            </div>
+          </div>
+          <!-- /.quote-bottom --> </div>
+        <!-- /.row --> </div>
+      <!-- /.container --> </section>
+    <!-- /.quote-section -->
+    <!-- Call To Action Section
+================================================== -->
+    <section id="call-to" class="call-to-section">
+      <div class="call-to-layer"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h3 class="wow fadeIn animated">Like what You see? <span>Contact
+                Applinate </span>Now!</h3>
+            <p class="wow fadeIn animated"> Applinate is line-of-business
+              architecture as a service.&nbsp; We provide the building blocks
+              for you to focus on your business and avoid all the plumbing
+              code.&nbsp; You keep your business code isolated and clean.&nbsp;
+              We take care of hosting, scaling.&nbsp; We run your business
+              microservices using our enterprise-grade application
+              infrastructure.</p>
+            <button class="btn btn-default wow fadeInRight hvr-sweep-to-right animated">Coming
+              Soon!</button> </div>
+          <!-- /.col-md-12 --> </div>
+        <!-- /.row --> </div>
+      <!-- /.container --> </section>
+    <!-- /.call-to-section -->
+    <!-- ================================================== -->
+    <footer>
+      <p>Copyright © 2020 -<a href="http://truthshield.com/"> Truthshield, LLC</a></p>
+    </footer>
+    <!-- Scripts
+================================================== -->
+    <!-- jQuery -->
+    <script src="assets/js/libraries/jquery-2.2.4.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="assets/js/libraries/bootstrap.js"></script>
+    <!-- JavaScript Libraries -->
+    <script src="assets/js/libraries/typed.js"></script>
+    <script src="assets/js/libraries/wow.js"></script>
+    <script src="assets/js/libraries/particles.js"></script>
+    <script src="assets/js/libraries/waypoint.js"></script>
+    <script src="assets/js/libraries/jquery.counterup.js"></script>
+    <!-- Custom Particle Theme JavaScript -->
+    <script>
+    var sentences = ["Applicaton Architecture as a Service", "Build 10x Faster!", "Reduce Overhead 80%!", "Cut Maintenance Development Costs by Over 5x!"];
+</script> <script src="assets/js/custom/particle-theme-light.js"></script>
+  </body>
+</html>
